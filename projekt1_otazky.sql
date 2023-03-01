@@ -1,3 +1,5 @@
+Discord jméno: Veronika S
+
 # otázka 1. 
 select A.industry,A.average_wages_2006,B.average_wages_2010,C.average_wages_2018,
 case when C.average_wages_2018>B.average_wages_2010 then "increase_2018"
