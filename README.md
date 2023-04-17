@@ -30,5 +30,7 @@ Finální tabulka vznikla spojením těchto dvou mezi-tabulek, pomocí funkce LE
 Tabulka obsahuje sloupce: GDP, gini, population, year, country, continent.
 
 Jednotlivé SQL dotazy pro tvorbu tabulek najdete v scriptu SQL projekt tabulky.
+
 SQL dotazy pro jednotlivé výzkumné otázky jsem definovala ve scriptu SQL projekt otazky.
+
 Výsledná zjištění popisuji v dokumentu Výsledky.
