@@ -10,6 +10,7 @@ V této analýze se zabývám životní úrovní občanů ČR v letech 2006-2018
 Pro zodpovězení výzkumných otázek jsem si vytvořila dvě finální tabulky:
 
 1.	t_veronika_smajda_SQL_primary_final
+
 Jako podklad jsem použila datové sady z Portálu otevřených dat ČR:
 -	czechia_payroll - Informace o mzdách v různých odvětvích za několikaleté období
 -	czechia_price - Informace o cenách vybraných potravin za několikaleté období
@@ -20,6 +21,7 @@ Finální tabulku jsem vytvořila použitím funkce JOIN, kde jsem nejdřív k t
 Finální tabulka obsahuje sloupce: food_category, food_price, average_wages, year, industry.
 
 2.	t_veronika_smajda_SQL_secondary_final
+
 Jako podklad jsem použila doplňující datové sady:
 -	countries – Různé informace o státech světa
 -	economies – HDP, gini, daňová zátěž atd. pro jednotlivé země světa
