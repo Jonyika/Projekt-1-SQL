@@ -1,4 +1,4 @@
-# Projekt-1-SQL
+# Projekt-SQL
 
 V této analýze se zabývám životní úrovní občanů ČR v letech 2006-2018, zejména dostupností základních potravin široké veřejnosti a pokusím se odpovědět na několik základních otázek:
 1.	Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
