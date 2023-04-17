@@ -28,3 +28,7 @@ Jelikož tabulka economies obsahuje údaje za větší časové období, než je
 Tabulka countries uvádí data všech zemí světa, přičemž pro potřeby analýzy jsou postačující Evropské státy. Tím pádem jsem si i tady vytvořila mezi-tabulku s daty jenom pro Evropské státy.
 Finální tabulka vznikla spojením těchto dvou mezi-tabulek, pomocí funkce LEFT JOIN, přes sloupec country.
 Tabulka obsahuje sloupce: GDP, gini, population, year, country, continent.
+
+Jednotlivé SQL dotazy pro tvorbu tabulek najdete v scriptu SQL projekt tabulky.
+SQL dotazy pro jednotlivé výzkumné otázky jsem definovala ve scriptu SQL projekt otazky.
+Výsledná zjištění popisuji v dokumentu Výsledky.
