@@ -1,4 +1,3 @@
-Discord jméno: Veronika S
 
 # otázka 1. 
 SELECT t_2006.industry,
